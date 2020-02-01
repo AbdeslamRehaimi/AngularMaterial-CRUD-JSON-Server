@@ -1,0 +1,69 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "fullName": "json-server",
+      "email": "email2@gmail.com",
+      "mobile": "232323",
+      "city": "city 1",
+      "gender": "M",
+      "departement": "Dep1",
+      "hireDate": "2019-01-09",
+      "isPermanent": "False"
+    },
+    {
+      "id": 2,
+      "fullName": "json-server 1",
+      "email": "email2@gmail.com",
+      "mobile": "232323",
+      "city": "city 2",
+      "gender": "F",
+      "departement": "Dep2",
+      "hireDate": "2019-01-04",
+      "isPermanent": "True"
+    },
+    {
+      "id": 4,
+      "fullName": "Said Saidi",
+      "email": "said@gmail.com",
+      "mobile": "062656644",
+      "city": "Casa",
+      "gender": "1",
+      "department": "3",
+      "hireDate": "2020-01-01T23:00:00.000Z",
+      "isPermanent": true
+    },
+    {
+      "id": 6,
+      "fullName": "Samir Qamirty",
+      "email": "samir@gmail.com",
+      "mobile": "050656945",
+      "city": "Agadir",
+      "gender": "1",
+      "department": "2",
+      "hireDate": "2020-01-13T23:00:00.000Z",
+      "isPermanent": true
+    },
+    {
+      "id": 11,
+      "fullName": "Abdeslam Rehaimi",
+      "email": "abdeslam.rehaimi@gmail.com",
+      "mobile": "0643589638",
+      "city": "Agadir",
+      "gender": "Male",
+      "hireDate": "2020-01-16T23:00:00.000Z",
+      "isPermanent": true
+    },
+    {
+      "id": 12,
+      "fullName": "kams-PC9",
+      "email": "xzx@kdz.zd",
+      "mobile": "zdzdzd4444",
+      "city": "Ozbakistan",
+      "gender": "Male",
+      "department": "1",
+      "hireDate": "2020-01-09T23:00:00.000Z",
+      "isPermanent": true
+    }
+  ]
+}
