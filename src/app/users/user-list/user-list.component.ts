@@ -45,6 +45,7 @@ export class UserListComponent implements OnInit {
   onDelete(id){
     if(confirm('Are you sure?')){
       this.delete(id);
+      //this is a comment
     }
   }
 
